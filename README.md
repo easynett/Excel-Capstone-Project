@@ -106,7 +106,7 @@ The dashboard contains the following Key Performance Indicators (KPIs):
 - Attrition Rate
 - Total Projected Bonus
 
-![KPI Cards](images/kpi-cards.png)
+![KPI Cards](images/kpi.png)
 
 ---
 
@@ -155,3 +155,15 @@ This project demonstrates proficiency in:
 - Data Visualization
 - Business Reporting
 - Analytical Thinking
+
+## AUTHOR
+
+**Ishaq Ajayi Ismail**
+
+Data Analyst | Excel Developer | Business Intelligence Enthusiast
+
+Feel free to connect, collaborate, or provide feedback on this project.
+
+---
+
+www.linkedin.com/in/easynett | www.github.com/easynett | info2easynett@gmail.com
