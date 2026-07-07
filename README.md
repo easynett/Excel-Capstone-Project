@@ -91,7 +91,7 @@ The raw dataset contained several quality issues that were resolved before analy
 
 # Dashboard Preview
 
-![HR Dashboard](images/dashboard.png)
+![HR Dashboard](images/dashboard1.png)
 
 ---
 
