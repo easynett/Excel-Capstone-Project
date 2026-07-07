@@ -93,7 +93,7 @@ The raw dataset contained several quality issues that were resolved before analy
 
 <p align="center">
   <img src="images/dashboard1.png" alt="HR Dashboard 1" width="48%">
-  <img src="images/dashboard3.png" alt="HR Dashboard 2" width="48%">
+  <img src="images/dashboard2.png" alt="HR Dashboard 2" width="48%">
 </p>
 
 
